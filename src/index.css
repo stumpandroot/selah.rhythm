@@ -1,0 +1,10 @@
+/**
+ * Main Entry CSS
+ *
+ * Imports all application styles in correct order:
+ * 1. CSS Variables (design tokens)
+ * 2. Global styles (reset, base, components)
+ */
+
+@import './styles/variables.css';
+@import './styles/global.css';
